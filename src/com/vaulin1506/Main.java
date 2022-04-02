@@ -8,3 +8,7 @@ public class Main {
         System.out.println("slow branch");
     }
 }
+public static void another() {
+    System.out.println("Hi");
+    }
+    
