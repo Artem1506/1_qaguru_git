@@ -7,6 +7,7 @@ public class Main {
         System.out.println("new line");
         System.out.println("slow branch");
         System.out.println("REPLAY");
+        System.out.println("new line");
     }
 }
 
